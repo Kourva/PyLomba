@@ -18,7 +18,7 @@ with open("main.kv") as kv:
 
 
 # Main Class
-class EditMeDaddyApp(App):
+class PyLombaApp(App):
 
     def run_text(self, *args):
         try:
@@ -84,7 +84,7 @@ This app does not accept the source code which contains statements like[/color],
         return root
 
 # Run
-EditMeDaddyApp().run()
+PyLombaApp().run()
 
 
 # Developer: Izolabela
