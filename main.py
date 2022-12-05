@@ -88,4 +88,3 @@ PyLombaApp().run()
 
 
 # Developer: Izolabela
-# KowshanKabir Team
