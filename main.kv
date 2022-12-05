@@ -1,0 +1,49 @@
+<ActionBar>
+    pos_hint: {'top':1}
+    background_color: "#000000"
+    ActionView:
+        use_separator: True
+        ActionPrevious:
+            color: "#AAAAAA"
+            title: '[b]PyLomba[/b]'
+            with_previous: False
+            markup: True
+            app_icon: "icon.png"
+
+<TextInput>
+    background_color: "#111111"
+    foreground_color: "#FFFFFF"
+    cursor_color: "#BBBBBB"
+    font_name: "RobotoMono-Regular"
+    size_hint: (0.95, None)
+    pos_hint: {"center_x":0.5, "center_y":0.8}
+    height: "100dp"
+    _cursor_blink: True
+    auto_indent: True
+    do_wrap: False
+    use_bubble: True
+    text: "# Python live evaluater - Start Coding\n\n"
+
+
+<ScrollView>
+    do_scroll_x: True
+    do_scroll_y: True
+    size_hint: (0.95, 0.60)
+
+    Label:
+        id: result
+        font_name: "RobotoMono-Regular"
+        size_hint_y: None
+        height: self.texture_size[1]
+        text_size: self.width, None
+        padding: 10, 10
+        markup: True
+        color: "#AAAAAA"
+        text: "OutPut Here..."
+
+<Button>
+    size_hint: (0.5, 0.05)
+    background_color: "#111111"
+    foreground_color: "#FFFFFF"
+    spacing: (1, 0)
+    bold: True 
