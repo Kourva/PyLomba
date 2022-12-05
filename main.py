@@ -39,7 +39,7 @@ This app does not accept the source code which contains statements like[/color],
 
     def clear_text(self, *args):
         self.TextInput.text = "# Python live evaluater - Start Coding\n\n"
-        self.ScrollView.ids.result.text = "OutPute Here..."
+        self.ScrollView.ids.result.text = "OutPut Here..."
 
 
     # Build Method
