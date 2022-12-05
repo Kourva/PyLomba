@@ -9,7 +9,7 @@ This app does not accept the source code which contains statements like:
 + import
 + class and function
 
-and con not be used to **assign** a value to variable
+and can not be used to **assign** a value to variable
 <br>
 
 # ScreenShot
