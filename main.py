@@ -28,12 +28,19 @@ class PyLombaApp(App):
         except Exception as E:
             Error = \
 f"""
-[color=#FFFFFF]# Note[/color]
-This app is for evaluate a string which contains [color=#AA0000]single expression[/color] and return the calculated value and only evaluates the single expression, not the complex logic code!
-This app does not accept the source code which contains statements like[/color], [color=#AA0000]for[/color], [color=#AA0000]while[/color], [color=#AA0000]print[/color], [color=#AA0000]import[/color], [color=#AA0000]class[/color] and con not be used to [color=#AA0000]assign[/color] a value to variable
-
 [color=#FFFFFF]# Error While Running Your Code[/color]
 [color=#AA0000]{E}[/color]
+.
+.
+.
+.
+.
+.
+[color=#FFFFFF]# Note[/color]
+This app is for evaluate a string which contains [color=#AA0000]single expression[/color] and return the calculated value and only evaluates the single expression, not the complex logic code!
+This app does not accept the source code which contains statements like[/color], [color=#AA0000]for[/color], [color=#AA0000]while[/color], [color=#AA0000]print[/color], [color=#AA0000]import[/color], [color=#AA0000]class[/color] and can not be used to [color=#AA0000]assign[/color] a value to variable
+
+
 """            
             self.ScrollView.ids.result.text = Error
 
