@@ -13,7 +13,8 @@ and con not be used to **assign** a value to variable
 <br>
 
 # ScreenShot
+| Without Error | With Syntax Error|
+| --- | --- |
+| <img align="center" src="https://github.com/Izolabela/PyLomba/blob/main/PyLomba_1.png" /> | <img align="center" src="https://github.com/Izolabela/PyLomba/blob/main/PyLomba_2.png" /> |
 
-<img align="left" src="https://github.com/Izolabela/PyLomba/blob/main/PyLomba_1.png" />
-<img align="left" src="https://github.com/Izolabela/PyLomba/blob/main/PyLomba_2.png" />
 <br>
