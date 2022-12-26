@@ -94,4 +94,4 @@ This app does not accept the source code which contains statements like[/color],
 PyLombaApp().run()
 
 
-# Developer: Izolabela
+# Developer: Kourva
