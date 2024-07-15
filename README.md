@@ -15,6 +15,6 @@ and can not be used to **assign** a value to variable
 # ScreenShot
 | Copy Paste | Syntax Error | Example |
 | --- | --- | --- |
-| <img align="center" src="https://github.com/Kourva/PyLomba/blob/main/PyLomba_1.png" /> | <img align="center" src="https://github.com/Kourva/PyLomba/blob/main/PyLomba_2.png" /> | <img align="center" src="https://github.com/Kourva/PyLomba/blob/main/PyLomba_3.png" />
+| <img align="center" src="https://github.com/kozyol/PyLomba/blob/main/PyLomba_1.png" /> | <img align="center" src="https://github.com/kozyol/PyLomba/blob/main/PyLomba_2.png" /> | <img align="center" src="https://github.com/kozyol/PyLomba/blob/main/PyLomba_3.png" />
 
 <br>
